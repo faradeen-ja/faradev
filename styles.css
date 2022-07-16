@@ -331,8 +331,6 @@ body{
 
     .card-backdrop::after{
       content: 'hello ⇣';
-      
-      
       color: rgb(31, 82, 169);
       position: relative;
       top: 200px;
