@@ -27,7 +27,6 @@ body{
 
 
   #navbar{
-    position: absolute;
     display: flex;
     justify-content: center;
     top: 0;
@@ -45,7 +44,7 @@ body{
 
       #navbar{
         
-        position: absolute;
+        position: fixed;
     
         
       }
